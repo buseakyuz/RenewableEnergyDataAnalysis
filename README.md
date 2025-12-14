@@ -24,4 +24,4 @@ Bu analizde aşağıdaki sorulara yanıt aradık:
 * **Platform:** Google Colab
 
 ---
-*Bu proje [@buseakyuz] tarafından hazırlanmıştır.*
+*Bu proje @buseakyuz tarafından hazırlanmıştır.*
